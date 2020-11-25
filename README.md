@@ -1,2 +1,2 @@
 # data
-varieties of dataset
+Varieties of dataset
